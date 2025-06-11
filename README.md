@@ -1,7 +1,7 @@
 # COVID-19 Transportation Analysis
 # 🚦 COVID-19 and County-Level Transportation Patterns
 
-This project investigates how transportation behaviors across ~3,000 U.S. counties changed in response to major COVID-19 milestones, including each county's first reported case and first COVID-related death. Using data from the U.S. Department of Transportation and COVID-19 timelines, we extracted two 14-day windows—before and after each event—to analyze shifts in mobility patterns.
+This project investigates how transportation behaviors across ~3,000 U.S. counties changed in response to major COVID-19 milestones, including each county's first reported case and first COVID-related death. Using data from the U.S. Department of Transportation and COVID-19 timelines, we extracted two 14-day windows (before and after each event) to analyze shifts in mobility patterns.
 
 ## 🧠 Project Overview
 
